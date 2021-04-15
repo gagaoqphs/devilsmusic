@@ -21,10 +21,10 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/devilcodes_network"
+                        "Creator", url="https://t.me/PirateMonkeyDLuffy"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/devilcodes_inc"
+                        "Channel 🔈", url="https://t.me/StalkersOFFICIAL"
                     ),
                 ],
             ]
